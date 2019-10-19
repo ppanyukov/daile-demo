@@ -7,7 +7,7 @@ GOPATH            ?= $(shell go env GOPATH)
 
 # TMP_GOPATH is used to install tools with specified version
 # in a way that does not mess up with go modules.
-TMP_GOPATH        ?= /tmp/github.com/ppanyukov/go-boot
+TMP_GOPATH        ?= /tmp/i.love.java/no/just/kidding
 
 #GOBIN             ?= $(firstword $(subst :, ,${GOPATH}))/bin
 GOBIN             = $(shell pwd)/bin

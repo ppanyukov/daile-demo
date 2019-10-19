@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/ppanyukov/go-boot/pkg/assets"
-	"github.com/ppanyukov/go-boot/pkg/version"
+	"i.love.java/no/just/kidding/pkg/assets"
+	"i.love.java/no/just/kidding/pkg/version"
 )
 
 func main() {
